@@ -3,6 +3,7 @@
     "name": "credery",
     "slug": "credery",
     "version": "1.0.0",
+    "scheme": "credery", // Reemplaza con tu esquema elegido,
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
