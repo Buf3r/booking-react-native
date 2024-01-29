@@ -15,7 +15,7 @@ import HomeNavigation from './App/Components/Navigations/HomeNavigation';
 
 export default function App() {
   return (
-    <ClerkProvider publishableKey={"pk_test_c3RyaWtpbmctZWVsLTM2LmNsZXJrLmFjY291bnRzLmRldiQ"}>
+    <ClerkProvider publishableKey={"pk_test_*************************************api personal"}>
       <SafeAreaView style={styles.container}>
       <StatusBar hidden />
         <SignedIn>
